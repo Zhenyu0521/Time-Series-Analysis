@@ -25,4 +25,5 @@ After determining the trend and seasonal components of the data, Holt-Winters fo
 
 Based on forecast, you can easily find that in the next 26 weeks, the temperature will fall down sharply. What’s more, the forecast also shows seasonality, which means the model can predict temperature with high accuracy. 
 
+* [Feel free to check the R code](https://github.com/Zhenyu0521/Time-Series-Analysis/blob/master/HoltWinters%20in%20R/HoltWinters.R)
 
