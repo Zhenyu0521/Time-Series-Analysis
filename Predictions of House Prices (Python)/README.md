@@ -22,3 +22,4 @@ After checking most of states and cities housing price predictions, one of the m
 
 
 * [Feel free to check Python codes](https://github.com/Zhenyu0521/Time-Series-Analysis/blob/master/Predictions%20of%20House%20Prices%20(Python)/Predictions%20of%20House%20Prices.ipynb) 
+* [Feel free to check my Kaggle](https://www.kaggle.com/zhenyufan/predictions-of-housing-prices)
