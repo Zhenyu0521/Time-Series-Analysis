@@ -12,7 +12,9 @@ After decomposing the time series data, I could plot the data series, trend and 
 To predict future temperatures based on previously observed values, ARIMA is chosen. ARIMA is an acronym that stands for AutoRegressive Integrated Moving Average. It is a class of model that captures a suite of different standard temporal structures in time series data. A non-seasonal ARIMA model is classified as an "ARIMA (p, d, q)" model, where:
 
 ●	p is the number of autoregressive terms,
+
 ●	d is the number of non-seasonal differences needed for stationarity, and
+
 ●	q is the number of lagged forecast errors in the prediction equation.
 
 If seasonality is considered, (P, D, Q) will be also included in the ARIMA model.
